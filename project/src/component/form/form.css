@@ -91,3 +91,8 @@
     text-align: center;
     margin-top: 58px;
   }
+
+  a {
+    all: unset;
+    cursor: pointer;
+  }

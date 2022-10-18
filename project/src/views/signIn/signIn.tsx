@@ -6,9 +6,11 @@ import Form from '../../component/form/form';
 
 
 function SignIn() {
-   return <div className='rectangle'>
+   return <div className='container'>
+    <div className='rectangle'>
     <Logo/>
     <Form/>
+    </div>
     </div>
 }
 export default SignIn;

@@ -1,0 +1,53 @@
+.side-menu {
+    display: flex;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+}
+
+.side-bar {
+    height: 100%;
+    width: 120px;
+    background-color: #2892FF;
+    display: flex;
+    flex-direction: column;
+}
+
+.burger-menu {
+    box-sizing: border-box;
+    height: 22px;
+    width: 40px;
+    margin-top: 40px;
+    margin-left: 40px; 
+}
+
+.home_icn {
+    box-sizing: border-box;
+    height: 39px;
+    width: 40px;
+    margin-left: 37px;
+    margin-top: 104px;
+}
+
+.header {
+    height: 104px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: rosybrown;
+    margin-top: 31px;
+}
+
+.pass_logo {
+    height: 68px;
+    width: 179px;
+    margin-left: 83px;
+}
+
+.rect{
+    height: 891px;
+    width: 1321px;
+    background-color: black;
+}
+
